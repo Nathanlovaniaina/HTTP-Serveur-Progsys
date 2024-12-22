@@ -1,0 +1,4 @@
+<configuration>
+    <root_dir>./www</root_dir>
+    <port>3355</port>
+</configuration>

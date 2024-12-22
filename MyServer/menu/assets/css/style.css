@@ -1,0 +1,26 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+li{
+    list-style: none;
+    padding: 7px;
+}
+.fa-folder{
+    color: gold;
+}
+.fa-file{
+    color: rgb(195, 47, 47);
+}
+.fa-file-image{
+    color: rgb(173, 145, 255);
+}
+.fa-file-code {
+    color: rgb(0, 135, 108);
+}
